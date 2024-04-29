@@ -12,6 +12,8 @@ target/
 *.iml
 *.ipr
 src/main/resources/chrome-win64
+.gitignore
+.gitattributes
 
 ### Eclipse ###
 .apt_generated
